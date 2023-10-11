@@ -1,0 +1,40 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.card {
+  width: 400px;
+  height: 500px;
+  border-radius: 20px;
+  padding: 40px;
+  background-color: #444444;
+  color: #ffffff;
+}
+.flexItem {
+  display: flex;
+  align-items: start;
+}
+
+.t {
+  width: 100%;
+  height: 100%;
+  background-color: aquamarine;
+}
+
+input {
+  margin-right: 20px;
+  margin-left: 80px;
+  height: 20px;
+  background-color: #333333;
+  border: 0px;
+  color: #ffffff;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 6px;
+  font-size: 1rem;
+}
+
+h1 {
+  font-weight: normal;
+}
